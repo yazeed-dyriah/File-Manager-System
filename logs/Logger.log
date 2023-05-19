@@ -1,0 +1,117 @@
+2022-12-24T14:34:36.449424100 [INFO] Welcome
+2022-12-24T15:25:14.390044100 [Error] Access denied for user 'root'@'localhost' (using password: YES)
+2022-12-24T15:25:17.403242900 [Error] Access denied for user 'root'@'localhost' (using password: YES)
+2022-12-24T15:25:48.818990100 [Error] Access denied for user 'root'@'localhost' (using password: YES)
+2022-12-24T15:26:28.617977 [Error] Access denied for user 'root'@'localhost' (using password: YES)
+2022-12-24T15:30:31.425215400 [INFO] Create Connection to DataBase
+2022-12-25T21:00:17.041774500 [INFO] Welcome Application
+2022-12-25T21:00:17.830836900 [Error] Unknown database 'files'
+2022-12-25T21:00:21.236014800 [INFO] Login in Profile
+2022-12-25T21:00:27.815727100 [INFO] Login to Application
+2022-12-25T21:00:27.815727100 [INFO] Cannot invoke "java.sql.Connection.createStatement()" because "connection" is null
+2022-12-25T21:01:01.202244600 [INFO] Welcome Application
+2022-12-25T21:01:01.976687100 [INFO] Create Connection to DataBase
+2022-12-25T21:01:04.432754500 [INFO] Login in Profile
+2022-12-25T21:01:10.475960800 [INFO] Login to Application
+2022-12-25T21:01:13.511107500 [Error] Invalid input Cannot invoke "features.IManagingFile.FileFeature(java.sql.Connection)" because "lis" is null
+2022-12-25T21:02:46.651989500 [INFO] Welcome Application
+2022-12-25T21:02:47.416487200 [INFO] Create Connection to DataBase
+2022-12-25T21:02:49.576526 [INFO] Login in Profile
+2022-12-25T21:02:54.943117800 [INFO] Login to Application
+2022-12-25T21:02:58.156127600 [INFO] All Files listed
+2022-12-25T21:05:13.418732400 [INFO] Welcome Application
+2022-12-25T21:05:14.210063200 [INFO] Create Connection to DataBase
+2022-12-25T21:05:17.415132200 [INFO] Login in Profile
+2022-12-25T21:05:22.342027700 [INFO] Login to Application
+2022-12-25T21:08:47.122266300 [INFO] Welcome Application
+2022-12-25T21:08:47.894103800 [INFO] Create Connection to DataBase
+2022-12-25T21:08:50.912509600 [INFO] Login in Profile
+2022-12-25T21:08:55.428630400 [INFO] Login to Application
+2022-12-25T21:08:58.976872500 [INFO] File1exportedddd.txt
+2022-12-25T21:12:10.772504700 [INFO] Welcome Application
+2022-12-25T21:12:11.550964200 [INFO] Create Connection to DataBase
+2022-12-25T21:12:14.379888100 [INFO] Login in Profile
+2022-12-25T21:12:14.382784200 [INFO] Login to Application
+2022-12-25T21:13:14.512305200 [INFO] Welcome Application
+2022-12-25T21:13:15.271534500 [INFO] Create Connection to DataBase
+2022-12-25T21:13:22.663622900 [INFO] Login in Profile
+2022-12-25T21:13:22.668766900 [INFO] Login to Application
+2022-12-25T21:13:27.957324100 [INFO] File deleted by ID: 1
+2022-12-25T21:14:15.283550800 [INFO] Welcome Application
+2022-12-25T21:14:16.050913300 [INFO] Create Connection to DataBase
+2022-12-25T21:14:23.262552500 [INFO] Login in Profile
+2022-12-25T21:14:28.637175100 [INFO] Login to Application
+2022-12-25T21:15:27.856218700 [INFO] Welcome Application
+2022-12-25T21:15:28.654898700 [INFO] Create Connection to DataBase
+2022-12-25T21:15:30.862463600 [INFO] Welcome Application
+2022-12-25T21:15:31.635619300 [INFO] Create Connection to DataBase
+2022-12-25T21:15:32.969830900 [INFO] Login in Profile
+2022-12-25T21:15:38.819990700 [INFO] Login to Application
+2022-12-25T21:16:12.746463200 [Error] ‪C:\Users\HP\Desktop\ddd.txt (The filename, directory name, or volume label syntax is incorrect)
+2022-12-25T21:16:12.750461300 [Error] Invalid input java.io.FileNotFoundException: ‪C:\Users\HP\Desktop\ddd.txt (The filename, directory name, or volume label syntax is incorrect)
+2022-12-25T21:17:04.370275500 [INFO] Welcome Application
+2022-12-25T21:17:05.138966 [INFO] Create Connection to DataBase
+2022-12-25T21:17:06.875771300 [INFO] Login in Profile
+2022-12-25T21:17:11.240947200 [INFO] Login to Application
+2022-12-25T21:17:24.263273300 [Error] ‪C:\Users\HP\Desktop\ddd.txt (The filename, directory name, or volume label syntax is incorrect)
+2022-12-25T21:17:24.263273300 [Error] Invalid input java.io.FileNotFoundException: ‪C:\Users\HP\Desktop\ddd.txt (The filename, directory name, or volume label syntax is incorrect)
+2022-12-25T21:18:15.259978700 [INFO] Welcome Application
+2022-12-25T21:18:16.036685100 [INFO] Create Connection to DataBase
+2022-12-25T21:18:17.387624900 [INFO] Login in Profile
+2022-12-25T21:18:23.911863600 [INFO] Login to Application
+2022-12-25T21:18:30.789146400 [INFO] Filetst.txtImported0
+2022-12-25T21:19:07.021342500 [INFO] Fileddd.txtImported2326
+2022-12-25T21:19:40.094911900 [INFO] Snapshot is under progress
+2022-12-25T21:19:50.606995100 [INFO] Login in Profile
+2022-12-25T21:20:18.746828 [INFO] Login to Application
+2022-12-25T21:20:25.205953400 [Error] Invalid input null
+2022-12-25T21:20:38.709272600 [INFO] File deleted by ID: 2
+2022-12-25T21:21:33.013878 [Error] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM snapshot_2' at line 1
+2022-12-25T21:22:22.107157300 [INFO] Login in Profile
+2022-12-25T21:22:32.726852200 [INFO] Login to Application
+2022-12-25T21:22:42.310135600 [Error] Unknown table 'sys.files'
+2022-12-25T21:22:42.314407500 [Error] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM snapshot_1' at line 1
+2022-12-25T21:25:17.202527500 [INFO] Welcome Application
+2022-12-25T21:25:18.000691200 [INFO] Create Connection to DataBase
+2022-12-25T21:25:19.717450200 [INFO] Create Profile
+2022-12-25T21:25:35.029984900 [INFO] Create Profile
+2022-12-25T21:25:37.513583800 [INFO] Login in Profile
+2022-12-25T21:25:47.389066 [INFO] Login to Application
+2022-12-25T21:26:07.270293800 [INFO] Create Profile
+2022-12-25T21:26:18.650067500 [INFO] Create Profile
+2022-12-25T21:26:20.956619 [INFO] Login in Profile
+2022-12-25T21:26:27.658643100 [INFO] Login to Application
+2022-12-25T21:38:40.866449400 [INFO] Welcome Application
+2022-12-25T21:38:41.650100800 [INFO] Create Connection to DataBase
+2022-12-25T21:38:44.991559900 [INFO] Login in Profile
+2022-12-25T21:39:01.519442900 [INFO] Login to Application
+2022-12-25T21:39:11.565120400 [INFO] Filetst.txtImported0
+2022-12-25T21:39:25.584604800 [INFO] Create Profile
+2022-12-25T21:39:33.476200100 [INFO] Welcome Application
+2022-12-25T21:39:34.256019500 [INFO] Create Connection to DataBase
+2022-12-25T21:39:36.190693800 [INFO] Login in Profile
+2022-12-25T21:39:36.538908200 [INFO] Welcome Application
+2022-12-25T21:39:37.314452600 [INFO] Create Connection to DataBase
+2022-12-25T21:39:46.782428400 [INFO] Welcome Application
+2022-12-25T21:39:47.572031800 [INFO] Create Connection to DataBase
+2022-12-25T21:39:51.091669200 [INFO] Login in Profile
+2022-12-25T21:39:57.271846 [INFO] Login to Application
+2022-12-25T21:40:07.499818800 [INFO] Snapshot is under progress
+2022-12-25T21:41:03.311734600 [INFO] Login in Profile
+2022-12-25T21:41:11.166421700 [INFO] Login to Application
+2022-12-25T21:41:21.328102200 [Error] Unknown table 'sys.files'
+2022-12-25T21:41:21.329204700 [Error] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM snapshot_1' at line 1
+2022-12-25T21:44:50.444891800 [INFO] Welcome Application
+2022-12-25T21:44:51.218340700 [INFO] Create Connection to DataBase
+2022-12-25T21:44:54.782046400 [INFO] Login in Profile
+2022-12-25T21:44:59.910747200 [INFO] Login to Application
+2022-12-25T21:45:11.382743600 [INFO] Filetst.txtImported0
+2022-12-25T21:45:24.442449100 [INFO] Snapshot is under progress
+2022-12-25T21:45:26.472480500 [INFO] Login in Profile
+2022-12-25T21:45:30.647140100 [INFO] Login to Application
+2022-12-25T21:46:42.959693500 [INFO] Login in Profile
+2022-12-25T21:46:46.936501600 [INFO] Login to Application
+2022-12-25T21:46:48.980406200 [Error] Invalid input null
+2022-12-25T21:46:57.280385600 [INFO] Snapshot is under progress
+2022-12-25T21:47:20.682232100 [INFO] Login in Profile
+2022-12-25T21:47:26.325915600 [INFO] Login to Application
